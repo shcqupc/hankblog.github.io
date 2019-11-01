@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Hank's Blog
 description: "The more diligent, the more luckier you are"
+
+markdown: kramdown
