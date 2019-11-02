@@ -7,11 +7,14 @@ tags: jekyll RubyGems
 ---
 
 **content**  
-
-
+{:toc}
 # 搭建过程
 ## 1. 获取Template
 我先是找到一个样版[blog](https://643435675.github.io/)，根据地址找到其GitHub上对应的[库](https://github.com/643435675/643435675.github.io)，将其代码下载下来(Download ZIP)， 解压为名为**xudailong.github.io-master**文件夹
+
+
+
+
 
 ## 2. &nbsp;&nbsp;&nbsp;搭建本地环境
 参考在jekyll的官网[(http://jekyllrb.com)](https://jekyllrb.com/docs/) 上的流程，主要环节有：安装Ruby，安装RubyGems，安装jekyll，安装代码高亮插件，安装node.js
