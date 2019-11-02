@@ -73,7 +73,8 @@ gem install jekyll bundler
 
 ## 可能出现的问题
 - **在启动服务时出现：**
-<font color=red> Dependency Error: Yikes! It looks like you don't have jekyll-paginate or one of its dependencies installed. In order to use Jekyll as currently configured, you'll need to install this gem. The full error message from Ruby is: 'cannot load such file -- jekyll-paginate' If you run into trouble, you can find helpful resources at https://jekyllrb.com/help/! </font>  
+- <font color="#FF4500">我要变成这个颜色#FF4500</font>
+<font color="#FF4500"> Dependency Error: Yikes! It looks like you don't have jekyll-paginate or one of its dependencies installed. In order to use Jekyll as currently configured, you'll need to install this gem. The full error message from Ruby is: 'cannot load such file -- jekyll-paginate' If you run into trouble, you can find helpful resources at https://jekyllrb.com/help/! </font>  
 - **Solution:**
 _config.yml文件中添加：
 gems: [jekyll-paginate] paginate: 5 
