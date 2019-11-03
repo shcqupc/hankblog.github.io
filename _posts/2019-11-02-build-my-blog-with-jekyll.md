@@ -6,7 +6,7 @@ categories: jekyll
 tags: jekyll RubyGems
 ---
 
-**content**  
+* content
 {:toc}
 # 搭建过程
 ## 1. 获取Template
@@ -16,7 +16,7 @@ tags: jekyll RubyGems
 
 
 
-## 2. &nbsp;&nbsp;&nbsp;搭建本地环境
+## 2. 搭建本地环境
 参考在jekyll的官网[(http://jekyllrb.com)](https://jekyllrb.com/docs/) 上的流程，主要环节有：安装Ruby，安装RubyGems，安装jekyll，安装代码高亮插件，安装node.js
 
 ### 安装Ruby
